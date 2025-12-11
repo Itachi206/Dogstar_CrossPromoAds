@@ -1,0 +1,14 @@
+{
+  "ads": [
+    {
+      "gameId": "Dogstar_Turbo_Track_Racer",
+      "videoUrl": "https://cdn.jsdelivr.net/gh/Itachi206/Dogstar_CrossPromoAds/Ads/Dogstar_Turbo_Track_Racer.mp4",
+      "storeLink": "https://www.amazon.com/gp/product/B0FQQ6H2PW"
+    },  
+    {
+      "gameId": "Car_UnderGroundParking",
+      "videoUrl": "https://cdn.jsdelivr.net/gh/Itachi206/Dogstar_CrossPromoAds/Ads/Dogstar_RealUnderGroundCarParking.mp4",
+      "storeLink": "https://www.amazon.com/gp/product/B0FQQ6H2PW"
+    }   
+  ]
+}
