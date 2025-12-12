@@ -1,14 +1,5 @@
 {
-  "ads": [
-    {
-      "gameId": "Dogstar_Turbo_Track",
-      "videoUrl": "https://cdn.jsdelivr.net/gh/Itachi206/Dogstar_CrossPromoAds@main/Ads/Dogstar_Turbo_Track_Racer.mp4",
-      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/Itachi206/Dogstar_CrossPromoAds@main/Thumbnails/Dogstar_Turbo_Track_Racer.jpg",
-      "storeLink": "https://www.amazon.com/gp/product/B0FQQ6H2PW",
-      "weight": 5,
-      "canSkip": true,
-      "cooldownMinutes": 0
-    },
+  "ads": [    
     {
       "gameId": "Dogstar_Turbo_Track_Racer",
       "videoUrl": "https://cdn.jsdelivr.net/gh/Itachi206/Dogstar_CrossPromoAds@main/Ads/Dogstar%20Turbo%20Track%20Racer_v1.mp4",
