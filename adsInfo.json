@@ -17,6 +17,15 @@
       "weight": 5,
       "canSkip": true,
       "cooldownMinutes": 0
+    },
+    {
+      "gameId": "Dogstar_Mud_Master",
+      "videoUrl": "https://cdn.jsdelivr.net/gh/Itachi206/Dogstar_CrossPromoAds@main/Ads/Dogstar_Mud_Master.mp4",
+      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/Itachi206/Dogstar_CrossPromoAds@main/Thumbnails/Dogstar_Mud_Master.jpg",
+      "storeLink": "https://www.amazon.com/gp/product/B0FW5C2Z27",
+      "weight": 5,
+      "canSkip": true,
+      "cooldownMinutes": 0
     }
   ]
 }
