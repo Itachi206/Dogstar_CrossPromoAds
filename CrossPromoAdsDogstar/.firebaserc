@@ -1,6 +1,7 @@
 {
   "projects": {
-    "dogstarcrosspromo": "crosspromoadsdogstar"
+    "dogstarcrosspromo": "crosspromoadsdogstar",
+    "default": "crosspromoadsdogstar"
   },
   "targets": {},
   "etags": {}
