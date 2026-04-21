@@ -35,6 +35,51 @@
       "weight": 5,
       "canSkip": true,
       "cooldownMinutes": 0
+    },
+    {
+      "gameId": "Dogstar_City_Bus",
+      "videoUrl": "https://cdn.jsdelivr.net/gh/Itachi206/Dogstar_CrossPromoAds@main/Ads/Dogstar_City_Bus.mp4",
+      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/Itachi206/Dogstar_CrossPromoAds@main/Thumbnails/Dogstar_City_Bus.jpg",
+      "storeLink": "https://www.amazon.com/gp/product/B0GNX5HGJG",
+      "weight": 5,
+      "canSkip": true,
+      "cooldownMinutes": 0
+    },
+    {
+      "gameId": "Dogstar_City_Taxi_Driving_Simulator",
+      "videoUrl": "https://cdn.jsdelivr.net/gh/Itachi206/Dogstar_CrossPromoAds@main/Ads/Dogstar_City_Taxi_Driving_Simulator.mp4",
+      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/Itachi206/Dogstar_CrossPromoAds@main/Thumbnails/Dogstar_City_Taxi_Driving_Simulator.jpg",
+      "storeLink": "https://www.amazon.com/gp/product/B0GMPLJ3ZX",
+      "weight": 5,
+      "canSkip": true,
+      "cooldownMinutes": 0
+    },
+    {
+      "gameId": "Dogstar_Highway_Trafic_Racer",
+      "videoUrl": "https://cdn.jsdelivr.net/gh/Itachi206/Dogstar_CrossPromoAds@main/Ads/Dogstar_Highway_Trafic_Racer.mp4",
+      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/Itachi206/Dogstar_CrossPromoAds@main/Thumbnails/Dogstar_Highway_Trafic_Racer.jpg",
+      "storeLink": "https://www.amazon.com/gp/product/B0GSFDHHQJ",
+      "weight": 5,
+      "canSkip": true,
+      "cooldownMinutes": 0
+    },
+    {
+      "gameId": "Dogstar_Dragon_Fury_Feast",
+      "videoUrl": "https://cdn.jsdelivr.net/gh/Itachi206/Dogstar_CrossPromoAds@main/Ads/Dogstar_Dragon_Fury_Feast.mp4",
+      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/Itachi206/Dogstar_CrossPromoAds@main/Thumbnails/Dogstar_Dragon_Fury_Feast.jpg",
+      "storeLink": "https://www.amazon.com/gp/product/B0GSVPQWRN",
+      "weight": 5,
+      "canSkip": true,
+      "cooldownMinutes": 0
+    },
+    {
+      "gameId": "Dogstar_Truck_Sim_Legends",
+      "videoUrl": "https://cdn.jsdelivr.net/gh/Itachi206/Dogstar_CrossPromoAds@main/Ads/Dogstar_Truck_Sim_Legends.mp4",
+      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/Itachi206/Dogstar_CrossPromoAds@main/Thumbnails/Dogstar_Truck_Sim_Legends.jpg",
+      "storeLink": "https://www.amazon.com/gp/product/B0GX34L2ZL",
+      "weight": 5,
+      "canSkip": true,
+      "cooldownMinutes": 0
     }
   ]
 }
